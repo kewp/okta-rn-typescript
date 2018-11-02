@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { UIManager, LayoutAnimation, Alert } from 'react-native';
 import { authorize, refresh, revoke } from 'react-native-app-auth';
-import { Page, Button, ButtonContainer, Form, Heading } from './components';
+import { Page, Button, ButtonContainer, Form, Heading } from '../components';
 
 UIManager.setLayoutAnimationEnabledExperimental &&
   UIManager.setLayoutAnimationEnabledExperimental(true);

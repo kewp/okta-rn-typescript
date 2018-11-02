@@ -1,3 +1,5 @@
+.jest/
+
 # OSX
 #
 .DS_Store
