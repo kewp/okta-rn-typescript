@@ -14,9 +14,9 @@ type State = {
 };
 
 const config = {
-  issuer: 'https://demo.identityserver.io',
-  clientId: 'native.code',
-  redirectUrl: 'io.identityserver.demo:/oauthredirect',
+  issuer: 'https://dev-628819.oktapreview.com/oauth2/default',
+  clientId: '0oah624du50HDCjFr0h7',
+  redirectUrl: 'com.oktapreview.dev-628819:/callback',
   additionalParameters: {},
   scopes: ['openid', 'profile', 'email', 'offline_access']
 
